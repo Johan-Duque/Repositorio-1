@@ -1,5 +1,6 @@
 let r;
 let suma = 1+1;
+let resta = (1-1) * (1+1);
 
 // --- Recursividad --- //
 
