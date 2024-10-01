@@ -1,4 +1,5 @@
 let r;
+let suma = 1+1;
 
 // --- Recursividad --- //
 
